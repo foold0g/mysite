@@ -3,13 +3,9 @@
 @import url("https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700|Jura:300,400,500,600,700|Monoton|Poiret+One|Rajdhani:300,400,500,600,700");
 
 body {
-  background-image: repeating-linear-gradient(
-    43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
-  );
+  background-color: #19181a;
+  color: #fc4445;
   display: flex;
   flex-direction: column;
-  height: 500px;
+  height: 1000px;
 }
