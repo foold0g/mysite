@@ -12,6 +12,9 @@
 #visual studio
 /.vscode
 
+#config-details
+firebase.js
+
 # misc
 .DS_Store
 .env.local
