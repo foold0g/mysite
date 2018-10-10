@@ -13,7 +13,7 @@
 /.vscode
 
 #config-details
-firebase.js
+src/firebase/firebase.js
 
 # misc
 .DS_Store
